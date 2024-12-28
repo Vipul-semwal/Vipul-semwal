@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Vipul-semwal
-- 👀 I’m interested in full stack
-- 🌱 I’m currently learning mern stack
-- 💞️ I’m looking to collaborate on my new mern stack website
+- 👀 I’m a full-stack developer
 - 📫 mail me at vipulsemwal124@gmail.com
 
 <!---
